@@ -1,0 +1,100 @@
+{
+    "20": {
+        "Graph Builder": {
+            "average": 0.00202,
+            "std_dev": 0.00042
+        },
+        "Graph Builder+simplification": {
+            "average": 0.0117,
+            "std_dev": 0.00589
+        },
+        "time-reversed-1": {
+            "average": 0.13756,
+            "std_dev": 0.01647
+        }
+    },
+    "30": {
+        "Graph Builder": {
+            "average": 0.00328,
+            "std_dev": 0.00021
+        },
+        "Graph Builder+simplification": {
+            "average": 0.0459,
+            "std_dev": 0.01552
+        },
+        "time-reversed-1": {
+            "average": 0.36809,
+            "std_dev": 0.02624
+        }
+    },
+    "40": {
+        "Graph Builder": {
+            "average": 0.00506,
+            "std_dev": 0.00025
+        },
+        "Graph Builder+simplification": {
+            "average": 0.20094,
+            "std_dev": 0.06626
+        },
+        "time-reversed-1": {
+            "average": 0.81155,
+            "std_dev": 0.04172
+        }
+    },
+    "50": {
+        "Graph Builder": {
+            "average": 0.00718,
+            "std_dev": 0.0003
+        },
+        "Graph Builder+simplification": {
+            "average": 0.75221,
+            "std_dev": 0.2326
+        },
+        "time-reversed-1": {
+            "average": 1.56605,
+            "std_dev": 0.0596
+        }
+    },
+    "60": {
+        "Graph Builder": {
+            "average": 0.01015,
+            "std_dev": 0.00062
+        },
+        "Graph Builder+simplification": {
+            "average": 2.57154,
+            "std_dev": 0.71909
+        },
+        "time-reversed-1": {
+            "average": 2.6989,
+            "std_dev": 0.09387
+        }
+    },
+    "70": {
+        "Graph Builder": {
+            "average": 0.01319,
+            "std_dev": 0.00044
+        },
+        "Graph Builder+simplification": {
+            "average": 6.98958,
+            "std_dev": 2.09842
+        },
+        "time-reversed-1": {
+            "average": 4.27974,
+            "std_dev": 0.09585
+        }
+    },
+    "80": {
+        "Graph Builder": {
+            "average": 0.01758,
+            "std_dev": 0.00073
+        },
+        "Graph Builder+simplification": {
+            "average": 18.69953,
+            "std_dev": 4.31773
+        },
+        "time-reversed-1": {
+            "average": 6.2677,
+            "std_dev": 0.12357
+        }
+    }
+}

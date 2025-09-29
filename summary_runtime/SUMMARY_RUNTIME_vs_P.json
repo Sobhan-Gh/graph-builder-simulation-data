@@ -1,0 +1,240 @@
+{
+    "10": {
+        "Graph Builder": {
+            "average": 0.00342,
+            "std_dev": 0.00022
+        },
+        "Graph Builder+simplification": {
+            "average": 0.04281,
+            "std_dev": 0.01366
+        },
+        "time-reversed-1": {
+            "average": 0.37154,
+            "std_dev": 0.03657
+        }
+    },
+    "15": {
+        "Graph Builder": {
+            "average": 0.00377,
+            "std_dev": 0.00017
+        },
+        "Graph Builder+simplification": {
+            "average": 0.13942,
+            "std_dev": 0.03527
+        },
+        "time-reversed-1": {
+            "average": 0.45085,
+            "std_dev": 0.03102
+        }
+    },
+    "20": {
+        "Graph Builder": {
+            "average": 0.00402,
+            "std_dev": 0.00018
+        },
+        "Graph Builder+simplification": {
+            "average": 0.34496,
+            "std_dev": 0.09066
+        },
+        "time-reversed-1": {
+            "average": 0.5077,
+            "std_dev": 0.02321
+        }
+    },
+    "25": {
+        "Graph Builder": {
+            "average": 0.00423,
+            "std_dev": 0.00017
+        },
+        "Graph Builder+simplification": {
+            "average": 0.63051,
+            "std_dev": 0.17111
+        },
+        "time-reversed-1": {
+            "average": 0.55064,
+            "std_dev": 0.02275
+        }
+    },
+    "30": {
+        "Graph Builder": {
+            "average": 0.00442,
+            "std_dev": 0.00021
+        },
+        "Graph Builder+simplification": {
+            "average": 0.99407,
+            "std_dev": 0.22433
+        },
+        "time-reversed-1": {
+            "average": 0.57981,
+            "std_dev": 0.02364
+        }
+    },
+    "35": {
+        "Graph Builder": {
+            "average": 0.00454,
+            "std_dev": 0.00022
+        },
+        "Graph Builder+simplification": {
+            "average": 1.37428,
+            "std_dev": 0.26457
+        },
+        "time-reversed-1": {
+            "average": 0.608,
+            "std_dev": 0.02239
+        }
+    },
+    "40": {
+        "Graph Builder": {
+            "average": 0.00466,
+            "std_dev": 0.00022
+        },
+        "Graph Builder+simplification": {
+            "average": 1.73712,
+            "std_dev": 0.34666
+        },
+        "time-reversed-1": {
+            "average": 0.62409,
+            "std_dev": 0.0235
+        }
+    },
+    "45": {
+        "Graph Builder": {
+            "average": 0.00472,
+            "std_dev": 0.0002
+        },
+        "Graph Builder+simplification": {
+            "average": 2.27838,
+            "std_dev": 0.47648
+        },
+        "time-reversed-1": {
+            "average": 0.64135,
+            "std_dev": 0.02581
+        }
+    },
+    "50": {
+        "Graph Builder": {
+            "average": 0.00488,
+            "std_dev": 0.0003
+        },
+        "Graph Builder+simplification": {
+            "average": 2.55301,
+            "std_dev": 0.49358
+        },
+        "time-reversed-1": {
+            "average": 0.65439,
+            "std_dev": 0.02313
+        }
+    },
+    "55": {
+        "Graph Builder": {
+            "average": 0.00493,
+            "std_dev": 0.00024
+        },
+        "Graph Builder+simplification": {
+            "average": 2.63824,
+            "std_dev": 0.5985
+        },
+        "time-reversed-1": {
+            "average": 0.6691,
+            "std_dev": 0.02431
+        }
+    },
+    "60": {
+        "Graph Builder": {
+            "average": 0.00495,
+            "std_dev": 0.00021
+        },
+        "Graph Builder+simplification": {
+            "average": 2.41165,
+            "std_dev": 0.50682
+        },
+        "time-reversed-1": {
+            "average": 0.67758,
+            "std_dev": 0.02662
+        }
+    },
+    "65": {
+        "Graph Builder": {
+            "average": 0.00502,
+            "std_dev": 0.00024
+        },
+        "Graph Builder+simplification": {
+            "average": 2.32753,
+            "std_dev": 0.5256
+        },
+        "time-reversed-1": {
+            "average": 0.68772,
+            "std_dev": 0.0228
+        }
+    },
+    "70": {
+        "Graph Builder": {
+            "average": 0.00509,
+            "std_dev": 0.00021
+        },
+        "Graph Builder+simplification": {
+            "average": 1.93585,
+            "std_dev": 0.48375
+        },
+        "time-reversed-1": {
+            "average": 0.69531,
+            "std_dev": 0.02436
+        }
+    },
+    "75": {
+        "Graph Builder": {
+            "average": 0.00517,
+            "std_dev": 0.00023
+        },
+        "Graph Builder+simplification": {
+            "average": 1.45028,
+            "std_dev": 0.43239
+        },
+        "time-reversed-1": {
+            "average": 0.70125,
+            "std_dev": 0.02596
+        }
+    },
+    "80": {
+        "Graph Builder": {
+            "average": 0.00512,
+            "std_dev": 0.00023
+        },
+        "Graph Builder+simplification": {
+            "average": 0.92893,
+            "std_dev": 0.30583
+        },
+        "time-reversed-1": {
+            "average": 0.69575,
+            "std_dev": 0.02911
+        }
+    },
+    "85": {
+        "Graph Builder": {
+            "average": 0.00507,
+            "std_dev": 0.00021
+        },
+        "Graph Builder+simplification": {
+            "average": 0.50128,
+            "std_dev": 0.16507
+        },
+        "time-reversed-1": {
+            "average": 0.65472,
+            "std_dev": 0.0277
+        }
+    },
+    "90": {
+        "Graph Builder": {
+            "average": 0.005,
+            "std_dev": 0.00029
+        },
+        "Graph Builder+simplification": {
+            "average": 0.16199,
+            "std_dev": 0.05197
+        },
+        "time-reversed-1": {
+            "average": 0.58748,
+            "std_dev": 0.02917
+        }
+    }
+}
